@@ -3,71 +3,61 @@
       "id": 1,
       "name": "Tree Nursery",
       "cost": 100,
-      "effect": "Increases tree planting rate",
-      "image": "tree_nursery.png"
+      "effect": "Increases tree planting rate"
     },
     {
       "id": 2,
       "name": "Compost Bin",
       "cost": 150,
-      "effect": "Provides a small eco boost over time",
-      "image": "compost_bin.png"
+      "effect": "Provides a small eco boost over time"
     },
     {
       "id": 3,
       "name": "Solar Panel",
       "cost": 500,
-      "effect": "Increases passive eco-point generation",
-      "image": "solar_panel.png"
+      "effect": "Increases passive eco-point generation"
     },
     {
       "id": 4,
       "name": "Wind Turbine",
       "cost": 1000,
-      "effect": "Doubles the eco-points gained per tree planted",
-      "image": "wind_turbine.png"
+      "effect": "Doubles the eco-points gained per tree planted"
     },
     {
       "id": 5,
       "name": "Recycling Center",
       "cost": 2000,
-      "effect": "Reduces the cost of future upgrades by 10%",
-      "image": "recycling_center.png"
+      "effect": "Reduces the cost of future upgrades by 10%"
     },
     {
       "id": 6,
       "name": "Wind Farm",
       "cost": 5000,
-      "effect": "Triples eco-points generation",
-      "image": "wind_farm.png"
+      "effect": "Triples eco-points generation"
     },
     {
       "id": 7,
       "name": "Carbon Capture Technology",
       "cost": 10000,
-      "effect": "Generates eco points automatically every minute",
-      "image": "carbon_capture.png"
+      "effect": "Generates eco points automatically every minute"
     },
     {
       "id": 8,
       "name": "Biodiversity Preserve",
       "cost": 15000,
-      "effect": "Increases eco points per tree planted by 50%",
-      "image": "biodiversity_preserve.png"
+      "effect": "Increases eco points per tree planted by 50%"
     },
     {
       "id": 9,
       "name": "Community Education Program",
       "cost": 1200,
-      "effect": "Increases eco points earned per click by 10%",
-      "image": "education_program.png"
+      "effect": "Increases eco points earned per click by 10%"
     },
     {
       "id": 10,
       "name": "Greenhouse",
       "cost": 3500,
-      "effect": "Allows the planting of rare trees for extra eco points",
-      "image": "greenhouse.png"
+      "effect": "Allows the planting of rare trees for extra eco points"
     }  
   ]
   
