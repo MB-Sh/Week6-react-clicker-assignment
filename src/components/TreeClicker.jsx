@@ -11,6 +11,7 @@ export default function TreeClicker({ handleClick }) {
         onClick={handleClick}  
         className="plant-image" 
       />
+      <p className="tree-text">Click to plant trees</p>
     </div>
   );
 }
