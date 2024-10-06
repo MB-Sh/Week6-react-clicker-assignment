@@ -4,69 +4,79 @@
     "name": "Tree Nursery",
     "cost": 100,
     "effect": "Increases tree planting rate",
-    "value":1
+    "value":1,
+    "unlockAt": 50 
   },
   {
     "id": 2,
     "name": "Compost Bin",
     "cost": 150,
     "effect": "Provides a small eco boost over time",
-    "value":2
+    "value":2,
+    "unlockAt": 100 
   },
   {
     "id": 3,
     "name": "Solar Panel",
     "cost": 500,
     "effect": "Increases passive eco-point generation",
-    "value":5
+    "value":5,
+    "unlockAt": 450 
   },
   {
     "id": 4,
     "name": "Wind Turbine",
     "cost": 1000,
     "effect": "Doubles the eco-points gained per tree planted",
-    "value":10
+    "value":10,
+    "unlockAt": 950 
   },
   {
     "id": 5,
     "name": "Recycling Center",
     "cost": 2000,
     "effect": "Reduces the cost of future upgrades by 10%",
-    "value":20
+    "value":20,
+    "unlockAt": 1550 
   },
   {
     "id": 6,
     "name": "Wind Farm",
     "cost": 5000,
     "effect": "Triples eco-points generation",
-    "value":50
+    "value":50,
+    "unlockAt": 4550
   },
   {
     "id": 7,
     "name": "Carbon Capture Technology",
-    "cost": 12000,
+    "cost": 6000,
     "effect": "Generates eco points automatically every minute",
-    "value":100
+    "value":100,
+    "unlockAt": 5550 
   },
   {
     "id": 8,
     "name": "Biodiversity Preserve",
     "cost": 10000,
     "effect": "Increases eco points per tree planted by 50%",
-    "value":120
+    "value":120,
+    "unlockAt": 6550 
   },
   {
     "id": 9,
     "name": "Community Education Program",
-    "cost": 13000,
+    "cost": 8000,
     "effect": "Increases eco points earned per click by 10%",
-    "value":130
+    "value":130,
+    "unlockAt": 7550 
   },
   {
     "id": 10,
     "name": "Greenhouse",
-    "cost": 3500,
+    "cost": 10000,
     "effect": "Allows the planting of rare trees for extra eco points",
-    "value":150
+    "value":150,
+    "unlockAt": 9550 
   }  
 ]
