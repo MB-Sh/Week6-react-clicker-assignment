@@ -8,7 +8,7 @@ I used  my own API.
 
 
 🎯 Were there any requirements or goals that you were unable to achieve?
--Yes, due to time contstraint , I would have love to add a user form to give each user a personalised experience.
+-Yes, due to time contstraint , I would have love to add a user form to give each user a personalised experience and also a leaderboard page.
 - I had a bit of trouble importing images and audio from my public folder, by the time I recall the solution, it was a bit too late to add the images. but i did magned to add an audio.
 
 🎯 If so, what was it that you found difficult about these tasks?
