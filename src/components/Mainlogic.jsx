@@ -51,11 +51,11 @@ export default function MainLogic() {
         return newCPS;
       });
 
-      // Show success notification
+    
       setNotification({ message: `Successfully purchased ${upgrade.name}`,
          type: "success", visible: true });
     } else {
-      // Show insufficient trees notification
+      
       setNotification({ message: `Not enough trees to buy ${upgrade.name}`, 
         type: "error", visible: true });
 
@@ -74,7 +74,7 @@ export default function MainLogic() {
     return () => clearInterval(interval); 
   }, [treesPerSecond]);
 
-  // Hide notification after 3 seconds
+  
   useEffect(() => {
     if (notification.visible) {
       const timeout = setTimeout(() => setNotification({ ...notification, visible: false }), 3000);
